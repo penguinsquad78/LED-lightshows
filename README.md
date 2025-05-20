@@ -10,4 +10,4 @@ The diagrams were made with [TinkerCAD](https://www.tinkercad.com).
 
 The code was all done by me.
 
-If you watched my video, Light Party Circuits, you're probably looking for [Simple Show].
+If you watched my video, Light Party Circuits, you're probably looking for [Simple Show](Simple show).
