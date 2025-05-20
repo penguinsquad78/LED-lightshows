@@ -6,6 +6,8 @@ Each folder is a different project. Each one includes the code ({project_name}.i
 
 Feel free to go crazy and replace 3 LEDs with an RGB LED (just make sure to ground it!) or pick your own colors!
 
-The diagrams were made with [TinkerCAD](tinkercad.com).
+The diagrams were made with [TinkerCAD](https://www.tinkercad.com).
 
 The code was all done by me.
+
+If you watched my video, Light Party Circuits, you're probably looking for [Simple Show].
