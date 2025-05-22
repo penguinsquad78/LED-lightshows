@@ -41,7 +41,7 @@ void loop() {
   }
   for (int i = 0; i < 4; i++) {
     for (int i = 0; i < 15; i++) {
-      digitalWrite(random(2, 10), HIGH);
+      digitalWrite(random(2, 11), HIGH);
       delay(20);
     }
     for (int pin = 2; pin <= 10; pin++) {
